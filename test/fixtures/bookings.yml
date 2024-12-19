@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_name: MyString
+  email: MyString
+  room_id: 1
+  check_in: 2024-12-19
+  check_out: 2024-12-19
+
+two:
+  user_name: MyString
+  email: MyString
+  room_id: 1
+  check_in: 2024-12-19
+  check_out: 2024-12-19
