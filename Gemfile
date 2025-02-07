@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem 'image_processing'
 
 group :development, :test do
-  gem 'rspec-rails', '~> 7.1.0'
+  gem 'rspec-rails', '~> 7.1.1'
 end
 
 
